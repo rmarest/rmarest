@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rmarest
+- 👋 Hi, I’m Robert
 - 👀 I’m interested in data science and data analytics
 - 🌱 I’m currently learning R and Python for data analytics and data science
 - 💞️ I’m looking to collaborate on innovative projects
